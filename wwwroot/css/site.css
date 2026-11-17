@@ -1,0 +1,347 @@
+
+/* ==========================================
+   MODERN FASHION STORE - COMPLETE CSS
+========================================== */
+
+/* GLOBAL STYLING */
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background-color: #fffafb;
+    color: #29212a;
+    animation: pageLoad 0.8s ease-in-out;
+}
+
+@keyframes pageLoad {
+    from {
+        opacity: 0;
+        transform: translateY(15px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* ==========================================
+   HERO BANNER
+========================================== */
+
+.hero-section {
+    background: linear-gradient( 135deg, #fce4ec, #fff0f5, #f8dce8 );
+    padding: 110px 20px;
+    text-align: center;
+    border-radius: 0 0 35px 35px;
+    overflow: hidden;
+    animation: heroReveal 1s ease-out;
+}
+
+@keyframes heroReveal {
+    from {
+        opacity: 0;
+        transform: translateY(-30px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.hero-section h1 {
+    font-size: clamp(36px, 5vw, 58px);
+    font-weight: 800;
+    color: #29212a;
+    letter-spacing: -1.5px;
+    margin-bottom: 15px;
+    animation: headingFloat 3s ease-in-out infinite alternate;
+}
+
+@keyframes headingFloat {
+    from {
+        transform: translateY(0);
+    }
+
+    to {
+        transform: translateY(-7px);
+    }
+}
+
+.hero-section p {
+    font-size: 19px;
+    color: #71616b;
+    margin: 20px 0 30px;
+    animation: textReveal 1s ease-out 0.3s both;
+}
+
+@keyframes textReveal {
+    from {
+        opacity: 0;
+        transform: translateY(25px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* HERO BUTTON */
+
+.hero-section .btn {
+    background: #c2185b;
+    color: white;
+    padding: 14px 35px;
+    border-radius: 30px;
+    font-weight: 600;
+    border: none;
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    animation: textReveal 1s ease-out 0.6s both;
+}
+
+    .hero-section .btn:hover {
+        background: #880e4f;
+        transform: translateY(-4px);
+        box-shadow: 0 8px 20px rgba(194, 24, 91, 0.3);
+    }
+
+/* ==========================================
+   PRODUCT SECTION
+========================================== */
+
+#products {
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+
+    #products h2 {
+        font-size: 34px;
+        font-weight: 800;
+        color: #29212a;
+        margin-bottom: 40px;
+        text-align: center;
+        animation: textReveal 1s ease-out;
+    }
+
+/* ==========================================
+   PRODUCT CARDS
+========================================== */
+
+.card {
+    border: none;
+    border-radius: 18px;
+    overflow: hidden;
+    background: #ffffff;
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.06);
+    height: 100%;
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+    animation: cardReveal 0.8s ease both;
+}
+
+@keyframes cardReveal {
+    from {
+        opacity: 0;
+        transform: translateY(35px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.card:hover {
+    transform: translateY(-12px) scale(1.02);
+    box-shadow: 0 18px 35px rgba(194, 24, 91, 0.15);
+}
+
+/* ==========================================
+   PRODUCT IMAGES
+========================================== */
+
+.card img {
+    width: 100%;
+    height: 320px;
+    object-fit: cover;
+    display: block;
+    background-color: #f8f5f6;
+    transition: transform 0.6s ease;
+}
+
+.card:hover img {
+    transform: scale(1.08);
+}
+
+/* ==========================================
+   PRODUCT DETAILS
+========================================== */
+
+.card-body {
+    padding: 22px;
+}
+
+    .card-body h5 {
+        font-size: 19px;
+        font-weight: 700;
+        color: #29212a;
+        margin-bottom: 10px;
+    }
+
+    .card-body p {
+        color: #777;
+        font-size: 14px;
+        line-height: 1.6;
+    }
+
+    /* PRODUCT PRICE */
+
+    .card-body .price {
+        color: #c2185b;
+        font-size: 21px;
+        font-weight: 800;
+    }
+
+    /* ==========================================
+   PRODUCT BUTTONS
+========================================== */
+
+    .card-body .btn {
+        background: #29212a;
+        color: white;
+        border-radius: 25px;
+        padding: 10px 22px;
+        font-weight: 600;
+        border: none;
+        position: relative;
+        overflow: hidden;
+        transition: all 0.3s ease;
+    }
+
+        .card-body .btn:hover {
+            background: #c2185b;
+            transform: translateY(-4px);
+            box-shadow: 0 8px 20px rgba(194, 24, 91, 0.3);
+        }
+
+        /* BUTTON SHINE EFFECT */
+
+        .card-body .btn::before,
+        .hero-section .btn::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 50%;
+            height: 100%;
+            background: linear-gradient( 120deg, transparent, rgba(255, 255, 255, 0.4), transparent );
+            transition: left 0.6s ease;
+        }
+
+        .card-body .btn:hover::before,
+        .hero-section .btn:hover::before {
+            left: 130%;
+        }
+
+/* ==========================================
+   NAVBAR
+========================================== */
+
+.navbar {
+    background: #ffffff !important;
+    padding: 16px 25px;
+    box-shadow: 0 3px 15px rgba(0, 0, 0, 0.05);
+}
+
+.navbar-brand {
+    color: #c2185b !important;
+    font-size: 25px;
+    font-weight: 800;
+    letter-spacing: 1px;
+}
+
+.navbar .nav-link {
+    color: #29212a !important;
+    font-weight: 600;
+    transition: color 0.3s ease;
+}
+
+    .navbar .nav-link:hover {
+        color: #c2185b !important;
+    }
+
+/* ==========================================
+   FOOTER
+========================================== */
+
+footer {
+    background: #29212a;
+    color: #ffffff;
+    text-align: center;
+    padding: 30px 15px;
+    margin-top: 30px;
+}
+
+    footer p {
+        margin: 0;
+        color: #e5dce2;
+    }
+
+/* ==========================================
+   RESPONSIVE DESIGN
+========================================== */
+
+@media (max-width: 768px) {
+
+    .hero-section {
+        padding: 75px 15px;
+        border-radius: 0 0 25px 25px;
+    }
+
+        .hero-section h1 {
+            font-size: 36px;
+        }
+
+        .hero-section p {
+            font-size: 16px;
+        }
+
+    #products h2 {
+        font-size: 27px;
+    }
+
+    .card img {
+        height: 260px;
+    }
+
+    .navbar {
+        padding: 12px 15px;
+    }
+}
+
+/* ==========================================
+   ACCESSIBILITY
+========================================== */
+
+@media (prefers-reduced-motion: reduce) {
+
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
+}

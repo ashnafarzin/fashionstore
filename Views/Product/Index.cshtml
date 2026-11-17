@@ -1,0 +1,42 @@
+﻿@model List<FashionStore.Models.Product>
+
+<div class="container mt-4">
+
+    <h2 class="text-center mb-4">Our Fashion Collection</h2>
+
+    <div class="row">
+
+        @foreach (var product in Model)
+        {
+            <div class="col-md-4 mb-4">
+
+                <div class="card shadow">
+
+                    <img src="@Url.Content(product.ImageUrl)"
+                         alt="@product.Name"
+                         class="card-img-top"
+                         style="height:300px; object-fit:cover;" />
+
+                    <div class="card-body">
+
+                        <h5 class="card-title">@product.Name</h5>
+
+                        <p>@product.Description</p>
+
+                        <h5>₹@product.Price</h5>
+
+                        <p>@product.Category</p>
+
+                        <button class="btn btn-primary">
+                            Buy Now
+                        </button>
+
+                    </div>
+
+                </div>
+
+            </div>
+        }
+
+    </div>
+</div>

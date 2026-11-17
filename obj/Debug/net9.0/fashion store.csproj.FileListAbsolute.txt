@@ -1,0 +1,97 @@
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\bin\Debug\net9.0\appsettings.json
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\bin\Debug\net9.0\fashion store.staticwebassets.runtime.json
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\bin\Debug\net9.0\fashion store.staticwebassets.endpoints.json
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\bin\Debug\net9.0\fashion store.exe
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\bin\Debug\net9.0\fashion store.deps.json
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\bin\Debug\net9.0\fashion store.runtimeconfig.json
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\bin\Debug\net9.0\fashion store.dll
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\bin\Debug\net9.0\fashion store.pdb
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\fashion store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\fashion store.AssemblyInfoInputs.cache
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\fashion store.AssemblyInfo.cs
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\fashion store.csproj.CoreCompileInputs.cache
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\fashion store.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\fashion store.RazorAssemblyInfo.cache
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\fashion store.RazorAssemblyInfo.cs
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\scopedcss\bundle\fashion store.styles.css
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\scopedcss\projectbundle\fashion store.bundle.scp.css
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\1jlbalbxjh-61n19gt1b8.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\l0cmbzbpcp-xtxxf3hu2r.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\40jf0bxhab-bqjiyaj88i.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\hvl8095le9-c2jlpeoesf.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\ve5vuvn633-erw9l3u2r3.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\ags90vvs2z-aexeepp0ev.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\qxybms0l50-d7shbmvgxk.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\ate1ny7plj-ausgxo2sd3.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\fpp2ontl7z-k8d9w2qqmf.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\i5ulhag2um-cosvhxvwiu.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\bk6cybnhv8-ub07r2b239.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\1adf21f9p1-fvhpjtyr6v.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\6ylpjnctyv-b7pk76d08c.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\17sem036vl-fsbi9cje9m.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\ntdhemcnqv-rzd6atqjts.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\cj9ogcnxcn-ee0r1s7dh0.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\e08eeuz8ep-dxx9fxp4il.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\gabdkl0asv-jd9uben2k1.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\8ah2ydumpl-khv3u5hwcm.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\hgifhakzsx-r4e9w2rdcm.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\wlqcisq72c-lcd1t2u6c8.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\2m6y2jy1in-c2oey78nd0.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\709c2qhdce-tdbxkamptv.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\u4ilac1snr-j5mq2jizvt.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\q23nwsd6qi-06098lyss8.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\x80q7wl8c4-nvvlpmu67g.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\2h7cg35k98-s35ty4nyc5.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\roj0acr2x1-pj5nd1wqec.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\fdbcy4zxzm-46ein0sx1k.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\a8xdg24mw6-v0zj4ognzu.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\vxoxwzfqzv-37tfw0ft22.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\vujaczkbbw-hrwsygsryq.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\hohqfjngt2-pk9g2wxc8p.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\ca2o7dklvt-ft3s53vfgj.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\7x59zg38h3-6cfz1n2cew.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\u6mibz0sni-6pdc2jztkx.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\s0hm2o4keh-493y06b0oq.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\5zrofuects-iovd86k7lj.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\hqc3d20pay-vr1egmr9el.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\ktwzwpyigv-kbrnm935zg.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\ykh1rdp7zt-jj8uyg4cgr.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\b61qfz0ia9-y7v9cxd14o.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\42rhienupg-notf2xhcfb.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\dqwrpjauat-h1s4sie4z3.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\ui7mhih9b5-63fj8s7r0e.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\l8yzh5l4s7-0j3bgjxly4.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\wugp63zbf2-47otxtyo56.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\jmodzw8eot-4v8eqarkd7.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\v90tm2f7c4-356vix0kms.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\swvdmcx634-83jwlth58m.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\u6mq6ir69s-mrlpezrjn3.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\v7pxtjo1dq-lzl9nlhx6b.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\1rxtx6ammw-ag7o75518u.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\99boowu7xw-x0q3zqp4vz.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\ottju7g80h-0i3buxo5is.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\r0j5k7us7m-o1o13a6vjx.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\wvi2jypi03-ttgo8qnofa.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\b8fvtpac0r-2z0ns9nrw6.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\a97hwgclah-muycvpuwrr.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\zpzlinns0z-87fc7y1x7t.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\bv8mygdk0d-mlv21k5csn.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\uhh6qyjre4-9nwgg3dloj.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\s3hfpobuk5-9nwgg3dloj.gz
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\fashion store.dll
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\refint\fashion store.dll
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\fashion store.pdb
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\fashion store.genruntimeconfig.cache
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\ref\fashion store.dll
+C:\Users\farzi\OneDrive\Desktop\BigBoy\Programs\fashion store\fashion store\obj\Debug\net9.0\compressed\ej8rxhl2tr-ummxr37zb1.gz
